@@ -71,3 +71,101 @@ Follow these instructions to set up and run the project locally.
 
    ```bash
    git clone https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app.git
+
+2. **Navigate to the project directory:**
+  ```bash
+  cd minimal-ecommerce-app
+```
+
+3. **Install Dependencies**
+   ```bash
+   flutter pub get
+   ```
+4. **Run the App**
+   ```bash
+   flutter run
+   ```
+## Screens
+
+### Welcome Screen
+
+A welcoming interface that introduces users to the app.
+
+<p align="center">
+  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/welcomescreen.png?raw=true" alt="Welcome Screen" width="300">
+</p>
+
+### Navigation
+
+After pressing start, users are directed to the Home Screen, showcasing trending sales followed by other items. The app includes a Google-style bottom navigation bar and a drawer for logging out and accessing other options.
+
+<p align="center">
+  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/homescreen.png?raw=true" alt="Home Screen" width="300">
+  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/drawer.png?raw=true" alt="Drawer" width="300">
+</p>
+
+### Cart Functionality
+
+Users can add and remove items from their cart effortlessly.
+
+<p align="center">
+  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/itemadding.png?raw=true" alt="Add Items" width="300">
+  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/cartscreen.png?raw=true" alt="Cart Screen 1" width="300">
+  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/cartscreen2.png?raw=true" alt="Cart Screen 2" width="300">
+</p>
+
+## Technologies Used
+
+- **Flutter:** UI toolkit for building natively compiled applications.
+- **Dart:** Programming language optimized for UI.
+- **Android Studio:** Integrated development environment (IDE) for Flutter development.
+
+## Contributing
+
+Contributions are welcome! Please follow these steps:
+
+1. **Fork the repository**
+
+2. **Create a new branch:**
+
+    ```bash
+    git checkout -b feature/YourFeature
+    ```
+
+3. **Make your changes**
+
+4. **Commit your changes:**
+
+    ```bash
+    git commit -m "Add some feature"
+    ```
+
+5. **Push to the branch:**
+
+    ```bash
+    git push origin feature/YourFeature
+    ```
+
+6. **Open a pull request**
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+- **Author:** Abdullah Nasir Chowdhury
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **GitHub:** [Abdullah-Nasir-Chowdhury](https://github.com/Abdullah-Nasir-Chowdhury)
+
+
+### Key Additions:
+1. **Table of Contents** – Helps with navigation through the README.
+2. **Demo** – Placeholder for a future section to showcase your app in action.
+3. **Prerequisites** & **Installation** – Step-by-step guide for new users to get the app running.
+4. **Contributing** – Guidelines for other developers to contribute.
+5. **License** & **Contact** sections – Make it more formal and open for collaboration.
+6. **Badges** – Visual enhancements using shields.io for Flutter, Dart, and License information.
+
+Feel free to adjust your actual GitHub repository based on this enhanced version!
+
