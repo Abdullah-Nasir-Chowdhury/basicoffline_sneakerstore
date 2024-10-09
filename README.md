@@ -14,12 +14,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-<p>
-  <img src="https://github.com/Abdullah-Nasir-Chowdhury/ToDo-App/blob/master/assets/Delete%20function.png?raw=true" alt="Delete Slider" width="200", style="margin-left">
-  <img src="https://github.com/Abdullah-Nasir-Chowdhury/ToDo-App/blob/master/assets/input%20task.png?raw=true" alt="Input Task" width="200", style="margin-left">
-  <img src="https://github.com/Abdullah-Nasir-Chowdhury/ToDo-App/blob/master/assets/drawer%20section.png?raw=true" alt="Input Task" width="200", style="margin-left">
-</p>  
-
 
 ## 2. Screens
 
