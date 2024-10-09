@@ -100,9 +100,9 @@ After pressing start, users are directed to the Home Screen, showcasing trending
 Users can add and remove items from their cart effortlessly.
 
 <p align="center">
-  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/itemadding.png?raw=true" alt="Add Items" width="200">
-  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/cartscreen.png?raw=true" alt="Cart Screen 1" width="200">
-  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/cartscreen2.png?raw=true" alt="Cart Screen 2" width="200">
+  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/itemadding.png?raw=true" alt="Add Items" width="150">
+  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/cartscreen.png?raw=true" alt="Cart Screen 1" width="150">
+  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/cartscreen2.png?raw=true" alt="Cart Screen 2" width="150">
 </p>
 
 ## Technologies Used
