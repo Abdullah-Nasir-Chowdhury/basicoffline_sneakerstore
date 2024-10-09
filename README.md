@@ -1,48 +1,73 @@
 # Minimal E-Commerce App
 
-Here, I built the UI for an E-Commerce App with redundant images of a single laptop. It's a scalable application.
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
+![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-## 1. Getting Started
+A scalable and minimalistic E-Commerce application built with Flutter (Dart). This app features a clean UI with a focus on showcasing products effectively.
 
-I have used the Flutter(Dart) programming language on Android Studio to build this app. A few resources to get you started if this is your first Flutter project:
+## Table of Contents
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Demo](#demo)
+- [Screenshots](#screenshots)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Screens](#screens)
+- [Navigation](#navigation)
+- [Cart Functionality](#cart-functionality)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo
 
+*Coming Soon!*
 
+## Screenshots
 
-## 2. Screens
-
-This section walks you through the functionality of this application:
-
-The Welcome Screen:
+### Welcome Screen
 <p align="center">
-  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/welcomescreen.png?raw=true" alt="Welcome Screen" width="200", style="margin-right">
+  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/welcomescreen.png?raw=true" alt="Welcome Screen" width="300">
 </p>
 
-## 3. Navigation
-
-After pressing start, you are greeted by the home screen which is the shop showing the trending sales at first followeed by other items. To help with navigation there's the Google nav Bar on the bottom. There's also a drawer for logging out and other useful options.
-
+### Home Screen & Drawer
 <p align="center">
-  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/homescreen.png?raw=true" alt="Home Screen" width="200", style="margin-right">
-  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/drawer.png?raw=true" alt="Drawer" width="200", style="margin-right"> 
+  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/homescreen.png?raw=true" alt="Home Screen" width="300">
+  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/drawer.png?raw=true" alt="Drawer" width="300"> 
 </p>
 
-## 4. Cart
-
-You can add and remove items as you please.
-
+### Cart Functionality
 <p align="center">
-  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/itemadding.png?raw=true" alt="Add Items" width="200", style="margin-right">
-  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/cartscreen.png?raw=true" alt="Cart Screen 1" width="200", style="margin-right"> 
-  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/cartscreen2.png?raw=true" alt="Cart Screen 2" width="200", style="margin-right"> 
+  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/itemadding.png?raw=true" alt="Add Items" width="300">
+  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/cartscreen.png?raw=true" alt="Cart Screen 1" width="300"> 
+  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/cartscreen2.png?raw=true" alt="Cart Screen 2" width="300"> 
 </p>
 
+## Features
 
+- **User-Friendly UI:** Clean and intuitive design for easy navigation.
+- **Product Listing:** Displays trending sales and other items.
+- **Navigation:** Google-style bottom navigation bar and a drawer for additional options.
+- **Cart Management:** Add and remove items seamlessly.
+- **Scalable Architecture:** Built with scalability in mind for future enhancements.
 
+## Getting Started
 
+Follow these instructions to set up and run the project locally.
+
+### Prerequisites
+
+- **Flutter SDK:** [Install Flutter](https://flutter.dev/docs/get-started/install)
+- **Dart SDK:** Comes bundled with Flutter.
+- **Android Studio:** [Download Android Studio](https://developer.android.com/studio)
+- **Git:** [Install Git](https://git-scm.com/downloads)
+
+### Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app.git
