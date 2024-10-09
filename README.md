@@ -91,8 +91,8 @@ A welcoming interface that introduces users to the app.
 After pressing start, users are directed to the Home Screen, showcasing trending sales followed by other items. The app includes a Google-style bottom navigation bar and a drawer for logging out and accessing other options.
 
 <p align="center">
-  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/homescreen.png?raw=true" alt="Home Screen" width="300">
-  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/drawer.png?raw=true" alt="Drawer" width="300">
+  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/homescreen.png?raw=true" alt="Home Screen" width="150">
+  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/drawer.png?raw=true" alt="Drawer" width="150">
 </p>
 
 ### Cart Functionality
