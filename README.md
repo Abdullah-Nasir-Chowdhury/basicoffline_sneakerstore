@@ -36,7 +36,9 @@ A scalable and minimalistic E-Commerce application built with Flutter (Dart). Th
 ### Home Screen & Drawer
 <p align="center">
   <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/homescreen.png?raw=true" alt="Home Screen" width="300">
-  <b>                          </b>
+  <div style="background-color: transparent;">
+  This div has a transparent background.
+</div>
   <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/drawer.png?raw=true" alt="Drawer" width="300">
 </p>
 
