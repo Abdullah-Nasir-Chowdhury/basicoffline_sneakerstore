@@ -30,12 +30,12 @@ A scalable and minimalistic E-Commerce application built with Flutter (Dart). Th
 
 ### Welcome Screen
 <p align="center">
-  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/welcomescreen.png?raw=true" alt="Welcome Screen" width="300" height="250">
+  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/welcomescreen.png?raw=true" alt="Welcome Screen" width="300">
 </p>
 
 ### Home Screen & Drawer
 <p align="center">
-  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/homescreen.png?raw=true" alt="Home Screen" width="300" style="margin-right: 20px;">
+  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/homescreen.png?raw=true" alt="Home Screen" width="300" style="margin-right: 20;">
   <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/drawer.png?raw=true" alt="Drawer" width="300">
 </p>
 
