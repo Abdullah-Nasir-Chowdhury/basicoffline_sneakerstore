@@ -42,9 +42,9 @@ A scalable and minimalistic E-Commerce application built with Flutter (Dart). Th
 
 ### Cart Functionality
 <p align="center">
-  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/itemadding.png?raw=true" alt="Add Items" width="300">
-  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/cartscreen.png?raw=true" alt="Cart Screen 1" width="300"> 
-  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/cartscreen2.png?raw=true" alt="Cart Screen 2" width="300"> 
+  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/itemadding.png?raw=true" alt="Add Items" width="250">
+  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/cartscreen.png?raw=true" alt="Cart Screen 1" width="250"> 
+  <img src="https://github.com/Abdullah-Nasir-Chowdhury/minimal-ecommerce-app/blob/master/github_images/cartscreen2.png?raw=true" alt="Cart Screen 2" width="250"> 
 </p>
 
 ## Features
