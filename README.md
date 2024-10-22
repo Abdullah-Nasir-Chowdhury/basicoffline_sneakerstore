@@ -146,7 +146,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 - **Author:** Abdullah Nasir Chowdhury
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **Email:** [abdullahnasirchowdhury1#gmail.com](mailto:abdullahnasirchowdhury1@gmail.com)
 - **GitHub:** [Abdullah-Nasir-Chowdhury](https://github.com/Abdullah-Nasir-Chowdhury)
 
 
