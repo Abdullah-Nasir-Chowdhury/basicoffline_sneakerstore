@@ -149,14 +149,3 @@ This project is licensed under the [MIT License](LICENSE).
 - **Email:** [abdullahnasirchowdhury1@gmail.com](mailto:abdullahnasirchowdhury1@gmail.com)
 - **GitHub:** [Abdullah-Nasir-Chowdhury](https://github.com/Abdullah-Nasir-Chowdhury)
 
-
-### Key Additions:
-1. **Table of Contents** – Helps with navigation through the README.
-2. **Demo** – Placeholder for a future section to showcase your app in action.
-3. **Prerequisites** & **Installation** – Step-by-step guide for new users to get the app running.
-4. **Contributing** – Guidelines for other developers to contribute.
-5. **License** & **Contact** sections – Make it more formal and open for collaboration.
-6. **Badges** – Visual enhancements using shields.io for Flutter, Dart, and License information.
-
-Feel free to adjust your actual GitHub repository based on this enhanced version!
-
